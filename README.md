@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BugsBot-creator
 - 👀 I’m interested in ubiquitous experiences through AI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning unsupervised ML
 - 📫 How to reach me - distirbutedAI@proton.me
 
 <!---
