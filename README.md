@@ -1,5 +1,5 @@
--My Calendar 📅 - bhargav-pandravada.youcanbook.me
--Email 📥 - pandu-pandraventures@pm.me
+My Calendar 📅 - bhargav-pandravada.youcanbook.me
+Email 📥 - pandu-pandraventures@pm.me
 
 Mesh AI 🤖 - mymesh.ai/mesh-ai
 -One AI agent for yourself or your enterprise. A general intelligence AI that connects all your apps and devices. 
