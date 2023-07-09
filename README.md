@@ -8,7 +8,7 @@ Mesh AI 🤖 - mymesh.ai/mesh-ai
 -Dev ⎔⎔ - https://dev.azure.com/mymeshai/Mesh%20AI (email for invite)
 	
 
-Crypto Mesh 🔐 - mymesh.ai/cryptomesh
+Crypto Mesh 🔐 - https://mymesh.ai/cryptomesh
 -A cash2crypto and crypto2cash transcation service that accepts UPI payments in Asia. Powered by Hotbox Datacenter.
 -Email 📥 - fruit_tokens@pm.me
 -Coinbase Wallet 👛 - cash2crypto.cb.id
