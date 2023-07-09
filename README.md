@@ -1,4 +1,4 @@
-My Calendar 📅 - bhargav-pandravada.youcanbook.me
+My Calendar 📅 - https://bhargav-pandravada.youcanbook.me
 Email 📥 - pandu-pandraventures@pm.me
 
 Mesh AI 🤖 - mymesh.ai/mesh-ai
